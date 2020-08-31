@@ -1,6 +1,6 @@
 # EggTimer
 
-![eggtimer](https://user-images.githubusercontent.com/70255378/91683143-c159e980-eb8e-11ea-9cf0-02ba9c9aa050.png)
+![eggtimer](https://user-images.githubusercontent.com/70255378/91683143-c159e980-eb8e-11ea-9cf0-02ba9c9aa050.png)    
 
 ソフト、ミディアム、ハードで
 ユーザーが希望する時間設定が可能です。
